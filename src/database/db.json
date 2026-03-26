@@ -1,0 +1,332 @@
+{
+    "orderId": "1244730712239-01",
+    "sequence": "502790",
+    "marketplaceServicesEndpoint": null,
+    "sellerOrderId": "SLR-1244730712239-01",
+    "origin": "Marketplace",
+    "affiliateId": "",
+    "salesChannel": "1",
+    "merchantName": null,
+    "status": "payment-approved",
+    "statusDescription": "Pagamento Aprovado",
+    "value": 2012,
+    "creationDate": "2022-07-06T09:11:51.4597231+00:00",
+    "lastChange": "2022-07-06T09:12:00.2849749+00:00",
+    "orderGroup": "1244730712239",
+    "orderns": [
+      {
+        "totals": [
+          {
+              "id": "Items",
+              "name": "Total dos Itens",
+              "value": 2265
+          },
+          {
+              "id": "Discounts",
+              "name": "Total dos Descontos",
+              "value": -453
+          },
+          {
+              "id": "Shipping",
+              "name": "Total do Frete",
+              "value": 200
+          },
+          {
+              "id": "Tax",
+              "name": "Total da Taxa",
+              "value": 0
+          }
+      ],
+      "items": [
+          {
+              "uniqueId": "A14AD652AC5D40FBB0137D3ADA3CB800",
+              "id": "12",
+              "productId": "8",
+              "ean": null,
+              "lockId": null,
+              "itemAttachment": {
+                  "content": {},
+                  "name": null
+              },
+              "attachments": [],
+              "quantity": 1,
+              "seller": "ppxpssp",
+              "name": "Camiseta P Azul",
+              "refId": "COP01_P-A",
+              "price": 2265,
+              "listPrice": 2265,
+              "manualPrice": null,
+              "priceTags": [
+                  {
+                      "name": "discount@price-d0231eb3-e9a4-47b2-9c74-bc346df11ce4#e9bb430d-30b3-4461-a86e-f66f35b2915d",
+                      "value": -453,
+                      "isPercentual": false,
+                      "identifier": "d0231eb3-e9a4-47b2-9c74-bc346df11ce4",
+                      "rawValue": -4.53,
+                      "rate": null,
+                      "jurisCode": null,
+                      "jurisType": null,
+                      "jurisName": null
+                  }
+              ],
+              "imageUrl": "https://ppxps.vteximg.com.br/arquivos/ids/155407-55-55/EE803C74-37A5-4804-B1A6-9F12D22EA505.png?v=637559269453730000",
+              "detailUrl": "/camiseta/p",
+              "components": [],
+              "bundleItems": [],
+              "params": [],
+              "offerings": [],
+              "sellerSku": "12",
+              "priceValidUntil": "2023-07-06T09:11:04.0000000+00:00",
+              "commission": 0,
+              "tax": 0,
+              "preSaleDate": null,
+              "additionalInfo": {
+                  "brandName": "Marca TOP",
+                  "brandId": "2000001",
+                  "categoriesIds": "/7/",
+                  "categories": [
+                      {
+                          "id": 7,
+                          "name": "Roupas"
+                      }
+                  ],
+                  "productClusterId": "",
+                  "commercialConditionId": "1",
+                  "dimension": {
+                      "cubicweight": 1.0000,
+                      "height": 6.0000,
+                      "length": 10.0000,
+                      "weight": 4.0000,
+                      "width": 8.0000
+                  },
+                  "offeringInfo": null,
+                  "offeringType": null,
+                  "offeringTypeId": null
+              },
+              "measurementUnit": "un",
+              "unitMultiplier": 1.0000,
+              "sellingPrice": 1812,
+              "isGift": false,
+              "shippingPrice": null,
+              "rewardValue": 0,
+              "freightCommission": 0,
+              "priceDefinition": {
+                  "sellingPrices": [
+                      {
+                          "value": 1812,
+                          "quantity": 1
+                      }
+                  ],
+                  "calculatedSellingPrice": 1812,
+                  "total": 1812
+              },
+              "taxCode": "1122",
+              "parentItemIndex": null,
+              "parentAssemblyBinding": null,
+              "callCenterOperator": null,
+              "serialNumbers": null,
+              "assemblies": [],
+              "costPrice": null
+          }
+      ],
+      "marketplaceItems": [],
+      "clientProfileData": {
+          "id": "clientProfileData",
+          "email": "0bf94cbf23ff410aaaf7c707dd8a808c@ct.vtex.com.br",
+          "firstName": "Paulo",
+          "lastName": "Filho",
+          "documentType": "cpf",
+          "document": "11156703794",
+          "phone": "+5521971126360",
+          "corporateName": null,
+          "tradeName": null,
+          "corporateDocument": null,
+          "stateInscription": null,
+          "corporatePhone": null,
+          "isCorporate": false,
+          "userProfileId": "ca0695a8-df34-4076-8663-725041930c75",
+          "customerClass": null
+      },
+      "giftRegistryData": null,
+      "marketingData": {
+          "id": "marketingData",
+          "utmSource": null,
+          "utmPartner": null,
+          "utmMedium": null,
+          "utmCampaign": null,
+          "coupon": null,
+          "utmiCampaign": null,
+          "utmipage": null,
+          "utmiPart": null,
+          "marketingTags": [
+              "vtex-subscription"
+          ]
+      },
+      "ratesAndBenefitsData": {
+          "id": "ratesAndBenefitsData",
+          "rateAndBenefitsIdentifiers": [
+              {
+                  "description": "Desconto de 20% no pedido para assinatura",
+                  "featured": true,
+                  "id": "d0231eb3-e9a4-47b2-9c74-bc346df11ce4",
+                  "name": "Desconto 20% assinante",
+                  "matchedParameters": {},
+                  "additionalInfo": null
+              }
+          ]
+      },
+      "shippingData": {
+          "id": "shippingData",
+          "address": {
+              "addressType": "residential",
+              "receiverName": "Paulo Filho",
+              "addressId": "1651158093975",
+              "postalCode": "21341-270",
+              "city": "Rio de Janeiro",
+              "state": "RJ",
+              "country": "BRA",
+              "street": "Rua Pinto Teles",
+              "number": "1",
+              "neighborhood": "Praça Seca",
+              "complement": null,
+              "reference": null,
+              "geoCoordinates": [
+                  -43.350608825683594,
+                  -22.886520385742188
+              ]
+          },
+          "logisticsInfo": [
+              {
+                  "itemIndex": 0,
+                  "selectedSla": "Normal",
+                  "lockTTL": "12d",
+                  "price": 200,
+                  "listPrice": 200,
+                  "sellingPrice": 200,
+                  "deliveryWindow": null,
+                  "deliveryCompany": "Transportadora",
+                  "shippingEstimate": "2bd",
+                  "shippingEstimateDate": "2022-07-08T09:11:57.8421126+00:00",
+                  "slas": [
+                      {
+                          "id": "Normal",
+                          "name": "Normal",
+                          "shippingEstimate": "2bd",
+                          "deliveryWindow": null,
+                          "price": 200,
+                          "deliveryChannel": "delivery",
+                          "pickupStoreInfo": {
+                              "additionalInfo": null,
+                              "address": null,
+                              "dockId": null,
+                              "friendlyName": null,
+                              "isPickupStore": false
+                          },
+                          "polygonName": "",
+                          "lockTTL": "12d",
+                          "pickupPointId": null,
+                          "transitTime": "2bd"
+                      }
+                  ],
+                  "shipsTo": [
+                      "BRA"
+                  ],
+                  "deliveryIds": [
+                      {
+                          "courierId": "1",
+                          "courierName": "Transportadora",
+                          "dockId": "169fe66",
+                          "quantity": 1,
+                          "warehouseId": "166cb0c",
+                          "accountCarrierName": null
+                      }
+                  ],
+                  "deliveryChannel": "delivery",
+                  "pickupStoreInfo": {
+                      "additionalInfo": null,
+                      "address": null,
+                      "dockId": null,
+                      "friendlyName": null,
+                      "isPickupStore": false
+                  },
+                  "addressId": "1651158093975",
+                  "polygonName": "",
+                  "pickupPointId": null,
+                  "transitTime": "2bd"
+              }
+          ],
+          "trackingHints": null,
+          "selectedAddresses": [
+              {
+                  "addressId": "1651158093975",
+                  "addressType": "residential",
+                  "receiverName": "Paulo Filho",
+                  "street": "Rua Pinto Teles",
+                  "number": "1",
+                  "complement": null,
+                  "neighborhood": "Praça Seca",
+                  "postalCode": "21341-270",
+                  "city": "Rio de Janeiro",
+                  "state": "RJ",
+                  "country": "BRA",
+                  "reference": null,
+                  "geoCoordinates": [
+                      -43.350608825683594,
+                      -22.886520385742188
+                  ]
+              }
+          ]
+      },
+      "paymentData": {
+          "giftCards": [],
+          "transactions": [
+              {
+                  "isActive": true,
+                  "transactionId": "A5BF0F884F314F788F4778B464EE1648",
+                  "merchantName": "PPXPS",
+                  "payments": [
+                      {
+                          "id": "06D8D76D4BD549EF9CC209D969ACBA84",
+                          "paymentSystem": "47",
+                          "paymentSystemName": "Cash",
+                          "value": 2012,
+                          "installments": 1,
+                          "referenceValue": 2012,
+                          "cardHolder": null,
+                          "cardNumber": null,
+                          "firstDigits": null,
+                          "lastDigits": null,
+                          "cvv2": null,
+                          "expireMonth": null,
+                          "expireYear": null,
+                          "url": null,
+                          "giftCardId": null,
+                          "giftCardName": null,
+                          "giftCardCaption": null,
+                          "redemptionCode": null,
+                          "group": "cash",
+                          "tid": null,
+                          "dueDate": null,
+                          "connectorResponses": {},
+                          "giftCardProvider": null,
+                          "giftCardAsDiscount": null,
+                          "koinUrl": null,
+                          "accountId": null,
+                          "parentAccountId": null,
+                          "bankIssuedInvoiceIdentificationNumber": null,
+                          "bankIssuedInvoiceIdentificationNumberFormatted": null,
+                          "bankIssuedInvoiceBarCodeNumber": null,
+                          "bankIssuedInvoiceBarCodeType": null,
+                          "billingAddress": null
+                      }
+                  ]
+              }
+          ]
+      },
+      
+      "taxData": null,
+      "checkedInPickupPointId": null,
+      "cancellationData": null
+      }
+    ]
+  }
