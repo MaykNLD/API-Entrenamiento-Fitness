@@ -1,0 +1,52 @@
+{
+  "entrenamientos": [
+    {
+      "id": "a1b2c3d4-0001-0000-0000-000000000001",
+      "name": "Full Body - Nivel Inicial",
+      "items": [
+        { "ejercicio": "Sentadilla", "series": 3, "repeticiones": 12 },
+        { "ejercicio": "Flexiones", "series": 3, "repeticiones": 10 },
+        { "ejercicio": "Plancha", "series": 3, "duracion": "30s" }
+      ],
+      "logisticsInfo": {
+        "duracion": "45 minutos",
+        "nivel": "Principiante",
+        "equipo": "Sin equipo"
+      },
+      "createdAt": "2024-01-10T09:00:00.000Z",
+      "updatedAt": "2024-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "a1b2c3d4-0002-0000-0000-000000000002",
+      "name": "Upper Body - Fuerza",
+      "items": [
+        { "ejercicio": "Press banca", "series": 4, "repeticiones": 8 },
+        { "ejercicio": "Dominadas", "series": 4, "repeticiones": 6 },
+        { "ejercicio": "Press militar", "series": 3, "repeticiones": 10 }
+      ],
+      "logisticsInfo": {
+        "duracion": "60 minutos",
+        "nivel": "Intermedio",
+        "equipo": "Barra y mancuernas"
+      },
+      "createdAt": "2024-01-15T10:30:00.000Z",
+      "updatedAt": "2024-01-15T10:30:00.000Z"
+    },
+    {
+      "id": "a1b2c3d4-0003-0000-0000-000000000003",
+      "name": "HIIT Cardio - 20 minutos",
+      "items": [
+        { "ejercicio": "Burpees", "series": 4, "duracion": "30s" },
+        { "ejercicio": "Mountain Climbers", "series": 4, "duracion": "30s" },
+        { "ejercicio": "Saltos de tijera", "series": 4, "duracion": "30s" }
+      ],
+      "logisticsInfo": {
+        "duracion": "20 minutos",
+        "nivel": "Avanzado",
+        "equipo": "Sin equipo"
+      },
+      "createdAt": "2024-02-01T07:00:00.000Z",
+      "updatedAt": "2024-02-01T07:00:00.000Z"
+    }
+  ]
+}
